@@ -1,0 +1,17 @@
+{
+  "name": "conways-game-of-life-mru",
+  "module": "src/cli.ts",
+  "type": "module",
+  "dependencies": {
+    "@stackr/sdk": "latest",
+    "chalk": "^5.3.0",
+    "ethers": "^6.7.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
